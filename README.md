@@ -2,7 +2,7 @@
 
 [![make.fun](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
 [![Rank](https://make.fun/badge/token-radar-01/Fauzian08/token-radar-01/rank.svg)](https://make.fun/bounty/token-radar-01)
-[![Reward](https://make.fun/badge/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
+[![Reward](https://make.fun/badge/token-radar-01/Fauzian08/token-radar-01/reward.svg)](https://make.fun/bounty/token-radar-01)
 
 A token launch radar built from a frozen DefiLlama snapshot (2026-11-14). It ranks the
 protocols that record no token — and are not a wrapped, staked or bridged product of a
